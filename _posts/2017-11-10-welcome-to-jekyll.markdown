@@ -1,25 +1,15 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Trying Out github Pages"
 date:   2017-11-10 14:22:49 -0500
-categories: jekyll update
+categories: random
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Boy this sure took longer than I expected to, also incredibly confusing for how simple it actually is.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+In order to get this stood up, I followed along with the instructions detailed on this blog post [here][jekyll-blog].
 
-Jekyll also offers powerful support for code snippets:
+In order to get things working, I had to get ruby updated first, which proved to be a task in and of itself. Having no background in ruby other than needing it for homebrew, I wasn't even away of how to upgrade it. Eviently `brew upgrade ruby` was enough to grab the latest version.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Now that this is up and running, I'd like to spend some time trying to understand the "magic" used to make it work. Quite confused as to why there isn't like a home html file somewhere to work with, so I'm assuming all of that is getting pulled in by the templating... thing.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[jekyll-blog]: https://devblast.com/b/create-a-static-websiteblog-with-jekyll-and-github-pages
