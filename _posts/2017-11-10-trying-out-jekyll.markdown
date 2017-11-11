@@ -2,7 +2,7 @@
 layout: post
 title:  "Trying Out github Pages"
 date:   2017-11-10 14:22:49 -0500
-categories: random
+categories: jekyll
 ---
 Boy this sure took longer than I expected to, also incredibly confusing for how simple it actually is.
 
