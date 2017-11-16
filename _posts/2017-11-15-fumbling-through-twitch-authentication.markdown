@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Fumbling Through Twicth Authentication"
+title:  "Fumbling Through Twitch Authentication"
 date:   2017-11-15 21:40:00 -0500
 categories: python, testing
 ---
