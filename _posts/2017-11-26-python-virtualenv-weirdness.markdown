@@ -11,6 +11,7 @@ The first issue was a mac specific issue. Probably the first time where the inst
 
 I came across [this posting here](https://www.learnopencv.com/install-opencv3-on-macos/) for how to get it installed. In my case I was able to skip almost everything on this page and simply run step 5.1. In doing so, brew installed the following packages for me:
 >sqlite, gdbm, python3, python, eigen, lame, x264, xvid, ffmpeg, jpeg, libpng, libtiff, ilmbase, openexr, numpy, tbb
+
 With that I was then able to access cv3 globally by starting python3 and importing cv2 (why is this 2? I don't understand yet....).
 
 ## venv weirdness
