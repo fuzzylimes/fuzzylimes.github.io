@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "A Handful of Python Tricks"
-date:   2017-12-09 21:10:00 -0500
+title:  "Weekend Update"
+date:   2017-12-17 21:45:00 -0500
 categories: python
 ---
 Pretty productive weekend for me this week, nearly got everything done that I wanted to. After getting some minor fixes into my twitch scraping tool this week, I wanted to move ahead with my overall project and start playing around with html report pages.
