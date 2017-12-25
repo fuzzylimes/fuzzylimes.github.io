@@ -60,22 +60,26 @@ module.exports = {
 
 So then, if I wanted to use one of these functions in the handlebars script, I could simply do:
 
-{% highlight handlebars %}
+{% highlight html %}
+{% raw %}
 <div class="container mt-4">
     <div class="row justify-content-center">
         <div class="h3">History for {{formatdate history}}</div>
     </div>
 </div>
+{% endraw %}
 {% endhighlight %}
 
 One other small "gotcha" I ran into was trying to access other variables from within an `{{#each item}}` loop. With the way that handlebars works, once you enter the each loop, the focus is on the object you're itrating through. If you want to pull in a different variable, you'd need to actually go up another level to access it, like so:
 
-{% highlight handlebars %}
+{% highlight html %}
+{% raw %}
 <div class="container history-links">
     {{#each months}}
     <h3><a href="/streams/{{../user.lower_name}}/history/{{this}}">{{formatdate this}}</a></h3>
     {{/each}}
 </div>
+{% endraw %}
 {% endhighlight %}
 
 ### Deploying
@@ -86,12 +90,12 @@ This was the most daunting part for me. I wasn't really sure where to start, wha
 
 This would keep my monthly bill low at around $5 a month, and have plently of room for future projects, as well as running the scraping program.
 
-Great! But now what? Thankfully I found [this](https://code.lengstorf.com/deploy-nodejs-ssl-digitalocean/) tutorial that walk through the whole process of getting your app deployed and setting up various security items (including SSL!). However, I had read some stuff saying not to use the `PM2` package to monitor your app status and to use `systemd` instead. For that, I was able to fumble my way through it using some items I found online, including this [stack overflow post](https://stackoverflow.com/questions/36417528/how-to-auto-restart-node-app). This post is already way too long, so that'll have to be saved for another post.
+Great! But now what? Thankfully I found [this tutorial](https://code.lengstorf.com/deploy-nodejs-ssl-digitalocean/) that walk through the whole process of getting your app deployed and setting up various security items (including SSL!). However, I had read some stuff saying not to use the `PM2` package to monitor your app status and to use `systemd` instead. For that, I was able to fumble my way through it using some items I found online, including this [stack overflow post](https://stackoverflow.com/questions/36417528/how-to-auto-restart-node-app). This post is already way too long, so that'll have to be saved for another post.
 
 ### Connecting Domain
 This I had to figure out on my own. Every tutorial I could find online were for different registries than where I purchased my domain through... so I poked until I got it working. To my surprise, it really is as simple as editing your DNS records for your site, giving it a path (subdomain in my case), and then pointing it at a server. That's it. It just works.
 
 ## The Site
-So, after two weeks of working and not sleeping, here's where my project currently stands: https://stats.fuzzylimes.com/.
+So, after two weeks of working and not sleeping, here's where my project currently stands: [https://stats.fuzzylimes.com/](https://stats.fuzzylimes.com/).
 
 Looking forward to making more improvements to it in the future.
