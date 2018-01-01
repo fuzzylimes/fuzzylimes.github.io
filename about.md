@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-## Nothing to see here.
+## [Learn more about me here on my site]("https://fuzzylimes.net").
