@@ -16,9 +16,9 @@ After much googling and many different tries, I landed on [this solution](https:
 
 In my case I decided to not map the commands to an alias and just set the permissions for the commands specifically. Create a new sudoers record by running `sudo visudo -f /etc/sudoers.d/username` and adding the following:
 
-{ % raw % }
+{% highlight bash %}
 username ALL=(ALL) NOPASSWD: /usr/bin/service nginx start,/usr/sbin/service nginx stop,/usr/sbin/service nginx restart,/usr/sbin/service nginx status,/opt/letsencrypt/letsencrypt-auto renew
-{ % endraw % }
+{% endhighlight %}
 
 > Note: change username in the previous example to the user that will be running the command.
 

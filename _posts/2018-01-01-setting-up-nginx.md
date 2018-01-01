@@ -17,7 +17,7 @@ This is going to be more of a thought dump than a full on tutorial.
 ### Getting the base files ready
 I like to do prep work before I get started. In order to use nginx, you need to create .config files that it pulls from. The basic structure of these files looks something like this:
 
-{ % raw % }
+{% highlight bash %}
 # HTTP — redirect all traffic to HTTPS
 server {
     listen 80;
@@ -51,7 +51,7 @@ server {
         proxy_redirect off;
     }
 }
-{ % endraw % }
+{% endhighlight %}
 
 In this example, I have two different server blocks. The reason for this is because I'm using https. The first block handles the re-routing from http to https. The second block is where all of the logic goes for the domain.
 
@@ -73,15 +73,15 @@ In order to avoid having to do a symbolic link between the files we just created
 
 Run `sudo vim /etc/nginx/nginx.conf` and change the following:
 
-{ % raw % }
+{% highlight bash %}
 include /etc/nginx/sites-enabled/*;
-{ % endraw % }
+{% endhighlight %}
 
 to
 
-{ % raw % }
+{% highlight bash %}
 include /etc/nginx/sites-available/*.conf;
-{ % endraw % }
+{% endhighlight %}
 
 This will cause nginx to pick up your newly created config files when it starts up.
 
