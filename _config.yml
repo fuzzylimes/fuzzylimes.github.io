@@ -23,6 +23,7 @@ twitter_username: fuzzylimes
 github_username:  fuzzylimes
 paginate: 5
 paginate_path: "/blog/page:num/"
+google_analytics: "UA-111568797-3"
 
 # Build settings
 markdown: kramdown
