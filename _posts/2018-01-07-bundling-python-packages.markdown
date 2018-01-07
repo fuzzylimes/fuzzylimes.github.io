@@ -19,7 +19,9 @@ The guide does a good job of explaining what basic folder structure needs to be,
 So that brings me to the installation portion that I was most interested in. If you've commited your package to github with a setup.py file in it, you have one of two options: you can either clone the repo and install using setup.py, or you can install directly from github. That's what I was interested in.
 
 To do so, you'd run something like the following:
+
 `pip install git+git://github.com/fuzzylimes/mal-scraper.git`
+
 Where the URL is pointed to the package you want to install. Again, note that this will only work if there is a setup.py file present in the repo you're trying to install.
 
 What's super neat about this is that all of your dependecies will be installed automatically for you.
