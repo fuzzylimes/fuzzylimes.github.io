@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "TIL: RAM and XMP Profiles"
+date:   2018-04-03 21:00:00 -0000
+categories: TIL
+---
+No time for any lessons tonight, but I needed a break from it anyways. Tonight was all about helping my girlfriend get her new PC put together. It was her first personal build and it was fun to walk through the whole process. And I learned something new along the way!
+
+## RAM Speeds
+So when I was helping my girlfriend pick out the parts for her computer, I had selected some very nice 3000Mhz DDR4 sticks. Like with anything computers, more is better and I assumed that it would help out with graphics related programs she'd be using where lots of things are running from memory.
+
+Well, I was quite surprised to find that the RAM was only showing up as 2133Mhz after post. What in the world is happening? Did they really send me the wrong ones in the box?
+
+Well, after googling around I found out that that's what the standard speed is for DDR4. In fact, they're required to run at that spec. However, companies basically engineer in extra speed by adding in a secondary profile on the chip that tells the BIOS information about what the sticks support.
+
+And this transitions us into...
+
+## XMP Profiles
+In order to achieve the speeds that are advertised on the box, you actuall have to go in and enable the XMP profile in the BIOS. This basically allows the voltage to the ram sticks to be modified, giving you the extra boost to the memory speeds.
+
+In the case of the memory and motherboard picked up for this build, all of this was automatic. Enabling XMP automatically set the max voltage needed to hit the advertised speeds. And that was that.
+
+## But does it matter?
+Evidently not much at all! What a surprise! Isn't marketing great? There are _some_ performance gains to be had, but it's incredibly minimal.
+
+Here's a whole video about why it ends up being a waste:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D_Yt4vSZKVk?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
