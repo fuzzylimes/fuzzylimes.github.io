@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-## [Learn more about me here on my site](https://fuzzylimes.net){:target="_blank"}.
+## [Learn more about me on my site](https://fuzzylimes.net){:target="_blank"}.
