@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "TIL: Fat and Why We Hate It"
+date:   2018-05-23 21:10:00 -0000
+categories: TIL
+---
+Completely burned out from the work crunch from the last few days, so I took the night off from projects to relax. While relaxing, we watched this interesting video explaining the history of fat and why we hate it. Pretty interesting video that explains all about what fat is, why it's important, and how we as a society have come to hate it.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Vinqph-g5QI?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+💚
