@@ -33,11 +33,13 @@ Something else I remembered that I learned today that took a bit of searching to
 
 For instance, suppose that I have an array of four numbers: `[12, 34, 45, 221]`. Passing them into my html template, I would do the following to iterate through them:
 
-```handlebars
+```html
 <div>
+{% raw %}
     {{#each list}}
     <ul>{{this}}</ul>
     {{/each}}
+{% endraw %}
 <div>
 ```
 That would give you an unordered list of the four numbers you passed in.
