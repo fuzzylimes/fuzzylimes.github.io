@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "TIL: Printing to same line in console with Node"
-date:   2018-06-03 20:55:00 -0000
+date:   2018-06-04 20:55:00 -0000
 categories: TIL
 ---
 Tonight I learned a trick for doing something that I've wanted to know how to do for a while now: updating the same line on the console/stdout when printing data. You know, kinda like you see when you're installing packages and such.
