@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "TIL: Reordering Window numbers in screen"
-date:   2018-06-09 21:30:00 -0000
+date:   2018-06-08 21:30:00 -0000
 categories: TIL
 ---
 I've been a big user of the `screen` application for years now. It's super handy when working on cloud instances as it seems to always be there as part of the base install, keeps your work space organized, and can keep you from opening up 30 ssh terminals.

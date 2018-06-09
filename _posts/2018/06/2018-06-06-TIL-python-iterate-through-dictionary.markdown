@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "TIL: Iterating Through Python Dictionary"
-date:   2018-06-07 20:40:00 -0000
+date:   2018-06-06 20:40:00 -0000
 categories: TIL
 ---
 Somehow I've been working with python for 2 years now and never knew this was a thing. Wow.
