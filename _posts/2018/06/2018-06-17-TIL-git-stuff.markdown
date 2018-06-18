@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "TIL: Some git stuff I'd been putting off"
-date:   2018-06-17 21:20:00 -0000
+date:   2018-06-17 20:15:00 -0000
 categories: TIL
 ---
 I've been using git for years now, but ironically enough I've never done anything with branching. For whatever reason the idea of creating branches has scared me, so I just never got around to learning how to use them. Turns out that they're super easy to use, and very useful.
