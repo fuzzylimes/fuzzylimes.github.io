@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "TIL: Starting with React, Part 3"
-date:   2018-06-20 20:25:00 -0000
+title:  "TIL: Learning Python Pandas"
+date:   2018-06-22 20:25:00 -0000
 categories: TIL
 ---
 Having to learn how to process data for work, so started working with pandas tonight. I'd used it in an online course a while back, but honestly I've forgotten everything about it. So I started tonight by taking note of everything that I needed to be able to do and looking into how to do it. Here's what I learned from my searching.
