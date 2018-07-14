@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "TIL: Random Stuff, vol1"
+date:   2018-07-14 10:55:00 -0000
+categories: TIL
+---
+Bit of a mixed bag here today, all based on the work I've been doing this morning with my side projects `ute` and `ute-visor`. Made some good progress and hit a few road blocks I had to work through.
+
+### Disabling button in Bootstrap
+To disable both the appearance as well as the functionality of the button, you have to do more than just appending a `disabled` to the class list. This will make the appearance disabled, but not the functionailty.
+
+To block the functionality as well, you should use an `element.setAttribute('disabled', true)` statement. This will disable all functionality to the button.
+
+### Adding query string to button request
+So I needed to have a way for my button requests to send some sort of query string data with them when they were pressed. I tried to just hard code the values into the `form/action` value, but the query values were always ignored when they made it to my server.
+
+To get around this (and still use the form method), I found that there's a way to include hidden input fields which will allow you to set the name and values of your query parameters without exposing anything.
+
+```html
+<form action="/control/state/{{this.name}}" method="get">
+    <input type="hidden" name="state" value="stop">
+    <button type="submit" class="btn btn-primary">Stop</button>
+</form>
+```
+
+### Race conditions when using sockets
+I fought over an issue today for probably 30 minutes where I couldn't figure out why my function call was never showing up on my client side. Turns out I was trying to call the function which would call `io.emit` BEFORE my connection was actually established (i.e. the page is still reloading).
+
+In order to get around that, I added the function call to happen when a new connection is established. Since this is a pretty basic tool that no one would be accessing, I figure it's pretty safe to do.
+
+### A better way to handle the sockets
+After typing the section above, I went looking for a better way to solve that problem, as I really didn't want to broadcast updates to everyone every time that someone new connected.
+
+In order to send a message to ONLY a specific person, you change from doing an `io.emit` to a `socket.emit` command. And because you always know when a connection has been established for the first time (i.e. the `io.socket` client has been loaded in the browser), you can just pass this socket object to your connect function and use it instead.
+
+💚
