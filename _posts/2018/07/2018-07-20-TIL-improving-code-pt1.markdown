@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "TIL: Impoving My JS Code, pt1"
-date:   2018-07-20 19:30:00 -0000
+date:   2018-07-20 20:00:00 -0000
 categories: TIL
 ---
 As I posted yesterday, I want to start spending some time focusing on making my code a bit cleaner so that it's a bit better from the start. So today I'm starting to go back through the best practicies document I posted yesterday and start implementing some of what they outline
