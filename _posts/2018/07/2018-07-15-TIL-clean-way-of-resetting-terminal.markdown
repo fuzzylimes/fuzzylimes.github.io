@@ -2,7 +2,10 @@
 layout: post
 title:  "TIL: Clean Way of Resetting NodeJS Console"
 date:   2018-07-15 10:55:00 -0000
-categories: TIL
+categories:
+  - Coding
+tags:
+  - node.js
 ---
 This issue has haunted me for over a week now. Just when I thought I'd figured out the answer, I found more problems with the solution. But I've finally stumbled across an anwer that's exactly what I wanted.
 

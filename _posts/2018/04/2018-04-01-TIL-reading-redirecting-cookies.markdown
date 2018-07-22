@@ -2,7 +2,10 @@
 layout: post
 title:  "TIL: Consuming Data, Redirects, and Cookies"
 date:   2018-04-01 21:00:00 -0000
-categories: TIL
+categories:
+  - Coding
+tags:
+  - golang
 ---
 Worked on some more web development with Go training today, worked through several scenarios worth noting, specifically dealing with data passed in via forms/url, handling redirects, and basic cookie activies
 

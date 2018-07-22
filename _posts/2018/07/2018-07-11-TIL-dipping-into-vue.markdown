@@ -2,7 +2,10 @@
 layout: post
 title:  "TIL: Dipping Into VueJs"
 date:   2018-07-11 21:00:00 -0000
-categories: TIL
+categories:
+  - Coding
+tags:
+  - vue.js
 ---
 I got bored at work today so I started to take a look at Vue.JS, because why not.
 

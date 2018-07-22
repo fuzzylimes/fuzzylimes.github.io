@@ -2,7 +2,10 @@
 layout: post
 title:  "More Jekyll stuff"
 date:   2017-11-11 09:47:00 -0500
-categories: jekyll
+categories:
+  - Coding
+tags:
+  - jekyll
 ---
 Spent some more time this morning trying to figure out Jekyll. I'm not sure why they try so hard to hide the functionality from the user. Maybe I'm just bad at reading the documentation...
 

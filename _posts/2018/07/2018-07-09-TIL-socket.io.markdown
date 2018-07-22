@@ -2,7 +2,11 @@
 layout: post
 title:  "TIL: Learning Socket.io"
 date:   2018-07-09 20:55:00 -0000
-categories: TIL
+categories:
+  - Coding
+tags:
+  - node.js
+  - socket.io
 ---
 Really starting to get out of my comfort zone today, and I love it.
 

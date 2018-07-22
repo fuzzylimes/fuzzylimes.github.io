@@ -2,7 +2,10 @@
 layout: post
 title:  "TIL: I can't focus after 8PM"
 date:   2018-07-18 20:25:00 -0000
-categories: TIL
+categories:
+  - Rambling
+tags:
+  - personal
 ---
 Today's post will be lack luster and extremely light on content, because exucses.
 

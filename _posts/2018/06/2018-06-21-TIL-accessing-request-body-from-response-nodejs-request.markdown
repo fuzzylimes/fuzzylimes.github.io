@@ -2,7 +2,10 @@
 layout: post
 title:  "TIL: Accessing Request Body from Response using nodejs Request Package"
 date:   2018-06-21 20:25:00 -0000
-categories: TIL
+categories:
+  - Coding
+tags:
+  - node.js
 ---
 This is one of those things where the answer was so obvious that I spent 2 hours looking for a different answer before finally realizing it was right in front of me all along. For a while now I've been trying to figure out if it was possible to access the request content in the response call back when using the `request` package in nodejs. I thought it would be a pretty common question, but evidently only me and 2 other people have ever asked it (or we're both just really bad at reading the documentation).
 

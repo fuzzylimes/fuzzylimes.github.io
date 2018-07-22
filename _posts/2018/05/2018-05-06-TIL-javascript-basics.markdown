@@ -2,7 +2,10 @@
 layout: post
 title:  "TIL: Javascript Basics"
 date:   2018-05-06 17:50:00 -0000
-categories: TIL
+categories:
+  - Coding
+tags:
+  - javascript
 ---
 As I mentioned in my post yesterday, I'm pretty over `golang` at this point in time. After spinning my wheels for weeks, I wanted to get back into something that I better understand and have some enjoyment working with. So today I decided to go back to working with javascript and start on a course that actually teaches the base language.
 

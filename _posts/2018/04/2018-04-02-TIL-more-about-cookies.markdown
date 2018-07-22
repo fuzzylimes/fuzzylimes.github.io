@@ -2,7 +2,10 @@
 layout: post
 title:  "TIL: More about Cookies"
 date:   2018-04-02 20:45:00 -0000
-categories: TIL
+categories:
+  - Coding
+tags:
+  - web development
 ---
 Tonights activies were focused on more Go training, all of which was centered around the topic of sessions and state in web apps. So a lot of this again was dealing with cookies, rather than JWT. I'm not sure if JWT hadling will be covered in this course or not, but at least it's giving me a chance to learn more about cookies.
 

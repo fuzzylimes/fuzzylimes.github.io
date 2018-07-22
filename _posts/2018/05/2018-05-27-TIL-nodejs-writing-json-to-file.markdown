@@ -2,7 +2,10 @@
 layout: post
 title:  "TIL: Writing JSON to file with Nodejs pt1"
 date:   2018-05-27 21:15:00 -0000
-categories: TIL
+categories:
+  - Coding
+tags:
+  - node.js
 ---
 Marking this entry as part one as I don't have much time tonight to work on this. Today was a break for me. Lots of relaxing and doing other things outside of worring about work or other projects. Much needed.
 

@@ -2,7 +2,10 @@
 layout: post
 title:  "New Project: Twitch.tv channel stat scraper"
 date:   2017-12-04 20:30:00 -0500
-categories: python
+categories:
+  - Coding
+tags:
+  - python
 ---
 Short update as I need to get myself to bed. After feeling overwhelmed/burnt out from all of the front end development I'd ben working through, I decided to take a break and do a fun side project. What I landed on was a bit of a scraping project that will periodically pull statistics from Twitch streamers and store them into some sort of data structure.
 

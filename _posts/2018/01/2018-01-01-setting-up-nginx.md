@@ -2,7 +2,10 @@
 layout: post
 title:  "Setting up nginx"
 date:   2018-01-01 15:10:00 -0500
-categories: nginx
+categories:
+  - Coding
+tags:
+  - nginx
 ---
 As I mentioned in my last post, I'd fummpled my way through nginx when trying to get my first website deployed. Well, today I tried to get my second site deployed and hit another set of issues, so I figured now was as good a time as any to make a blog post about it.
 

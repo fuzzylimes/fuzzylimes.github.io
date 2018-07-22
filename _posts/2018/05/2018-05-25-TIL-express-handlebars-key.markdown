@@ -2,7 +2,10 @@
 layout: post
 title:  "TIL: Using Key Values in Express Handlebars"
 date:   2018-05-24 20:40:00 -0000
-categories: TIL
+categories:
+  - Coding
+tags:
+  - node.js
 ---
 Today I ran into a situation where I wanted to actually print the key of a key value pair instead of just printing out the value itself. To do this, we can take advantage of the `@key` parameter.
 

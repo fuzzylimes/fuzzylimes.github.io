@@ -2,7 +2,10 @@
 layout: post
 title:  "Building Python Lists With Duplicate Records"
 date:   2018-01-21 11:10:00 -0500
-categories: python
+categories:
+  - Coding
+tags:
+  - python
 ---
 This is one of those cases that really highlights how intuitive python is. I ran into a scenario where I needed to create a python list composed of multiple instances of the same value. Rather than building this list by hand I thought "surely there's a better way to be doing this...". Of course there was.
 

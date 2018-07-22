@@ -2,7 +2,10 @@
 layout: post
 title:  "TIL: Handling Sessions"
 date:   2018-04-04 21:00:00 -0000
-categories: TIL
+categories:
+  - Coding
+tags:
+  - web development
 ---
 Tonight was learning more about some theories behind handling sessions in your websites/applications. This continues to build on the lessons from the last few days with cookies.
 

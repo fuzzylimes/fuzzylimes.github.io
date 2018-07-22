@@ -2,7 +2,10 @@
 layout: post
 title:  "TIL: Destructuring JS Objects"
 date:   2018-07-21 10:32:00 -0000
-categories: TIL
+categories:
+  - Coding
+tags:
+  - javascript
 ---
 Today I sat down to focus on better understanding how to destructure javascript objects to make my code a little bit easier to read/manage. Before this morning, I thought that this technique could only be used with flat lists or objects, not with anything nested. But of course, there's a way to do it.
 

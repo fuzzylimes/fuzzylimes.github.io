@@ -2,7 +2,10 @@
 layout: post
 title:  "TIL: RAM and XMP Profiles"
 date:   2018-04-03 21:00:00 -0000
-categories: TIL
+categories:
+  - Tech
+tags:
+  - computers
 ---
 No time for any lessons tonight, but I needed a break from it anyways. Tonight was all about helping my girlfriend get her new PC put together. It was her first personal build and it was fun to walk through the whole process. And I learned something new along the way!
 

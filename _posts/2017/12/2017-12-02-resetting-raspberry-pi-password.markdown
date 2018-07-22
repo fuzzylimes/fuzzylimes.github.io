@@ -2,7 +2,10 @@
 layout: post
 title:  "Resetting Raspberry Pi Password"
 date:   2017-12-02 11:45:00 -0500
-categories: raspberry-pi
+categories:
+  - Tech
+tags:
+  - raspberry pi
 ---
 I'd picked up a pi a few months back thinking it would be a fun little weekend project. After setting it up, setting a static IP, and setting up ssh on my phone, I forgot all about it. Fast forward a few months, and surprise, I couldn't remember my password (I'd changed from default and of course didn't write it down).
 

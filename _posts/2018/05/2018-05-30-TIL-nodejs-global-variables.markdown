@@ -2,7 +2,10 @@
 layout: post
 title:  "TIL: Global Variables"
 date:   2018-05-30 21:35:00 -0000
-categories: TIL
+categories:
+  - Coding
+tags:
+  - node.js
 ---
 Still working though sessions. The tutorial didn't turn out to be everything that I wanted it to be, but I think I may have found a way around it. Just haven't had time to explore enough to have my answer on whether or not it's going to work. In the mean time I learned how to set a global variable today, despite the internet yelling at me not to.
 

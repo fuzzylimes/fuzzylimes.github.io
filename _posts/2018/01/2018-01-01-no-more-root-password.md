@@ -2,7 +2,10 @@
 layout: post
 title:  "Don't require password for nginx start/stop/restart/status"
 date:   2018-01-01 15:25:00 -0500
-categories: nginx
+categories:
+  - Coding
+tags:
+  - nginx
 ---
 It's the start of a new month, which means that one of the helper scripts for my new site finally ran! ...and it failed terribly and brought down my server for ~5 hours.
 

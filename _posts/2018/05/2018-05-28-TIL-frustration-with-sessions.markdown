@@ -2,7 +2,11 @@
 layout: post
 title:  "TIL: Sessions: I Don't Know What I'm Doing"
 date:   2018-05-28 20:40:00 -0000
-categories: TIL
+categories:
+  - Coding
+tags:
+  - node.js
+  - sessions
 ---
 I spent a good chunk of time today playing with and reading documentation for sessions. Just when I thought I was starting to get a grasp on what I'd need to do to handle my scenarios, I'd come across something that would completely contradict what I'd been reading. That's starting to wear on me a little bit.
 

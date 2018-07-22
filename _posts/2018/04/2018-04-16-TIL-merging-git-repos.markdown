@@ -2,7 +2,10 @@
 layout: post
 title:  "TIL: Merging git repos"
 date:   2018-04-15 19:30:00 -0000
-categories: TIL
+categories:
+  - Coding
+tags:
+  - git
 ---
 For whatever reason I don't like having a bunch of small repos under my github account. At the start of learning go I was creating a bunch of little folders for projects and committing them into github. Looking over my page, it was gettin pretty sloppy and hard to tell what was somehting worthwhile that I created and what was just lessons. So I decided I'd do a little house keeping
 

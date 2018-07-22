@@ -2,7 +2,10 @@
 layout: post
 title:  "TIL: Creating AMIs and Other AWS Stuff"
 date:   2018-06-27 20:15:00 -0000
-categories: TIL
+categories:
+  - Coding
+tags:
+  - aws
 ---
 I spent some time this afternoon at work doing some reading and playing around with AWS. I had heard of AMI's mentioned before in the documentation, and knew they could be used to create some sort of image, but that's where my knowledge stopped on the matter. So I took the time to investigate and see what I could find out.
 ## AMIs

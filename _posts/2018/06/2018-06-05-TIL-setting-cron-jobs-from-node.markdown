@@ -2,7 +2,11 @@
 layout: post
 title:  "TIL: Setting cron jobs from Node"
 date:   2018-06-05 20:55:00 -0000
-categories: TIL
+categories:
+  - Coding
+tags:
+  - node.js
+  - cron
 ---
 Here's a neat little trick/hack I learned today for being able to quickly control crontab jobs from routes in your node application.
 

@@ -2,7 +2,10 @@
 layout: post
 title:  "TIL: Starting with React"
 date:   2018-06-18 20:50:00 -0000
-categories: TIL
+categories:
+  - Coding
+tags:
+  - react
 ---
 I went ahead and picked up a lecture yesterday that covers using the React framework. After trying and not really "getting" Angular, I've been wanting to try out one of the other big three SPA frameworks. I'd read a lot of positive things saying that react was much more intuitive and easier to use. So far from what I've seen I'm already starting to agree with that.
 

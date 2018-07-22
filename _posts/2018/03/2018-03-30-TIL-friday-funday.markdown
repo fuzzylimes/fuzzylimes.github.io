@@ -2,7 +2,10 @@
 layout: post
 title:  "TIL: Friday Funday"
 date:   2018-03-30 17:00:00 -0500
-categories: TIL
+categories:
+  - Coding
+tags:
+  - golang
 ---
 Day off from work meant it mostly a day of relaxation. Lots of being lazy, falling down Youtube holes, and playing some video games. But I also ended up doing a bit more work with studying Golang.
 

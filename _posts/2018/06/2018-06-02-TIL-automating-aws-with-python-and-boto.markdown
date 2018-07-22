@@ -2,7 +2,10 @@
 layout: post
 title:  "TIL: Automating AWS with Python and Boto, pt1"
 date:   2018-06-02 15:15:00 -0000
-categories: TIL
+categories:
+  - Coding
+tags:
+  - aws
 ---
 I've been curious as to whether there was a way to automate the deployment/management of EC2 instances for a while now but only finally just got around to it today. Turns out there's a pretty nice package for Python that will handle a lot of it for you, called `boto`.
 

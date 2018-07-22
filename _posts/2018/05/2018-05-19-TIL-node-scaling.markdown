@@ -2,7 +2,10 @@
 layout: post
 title:  "TIL: Intro to Scaling Node Apps"
 date:   2018-05-19 16:45:00 -0000
-categories: TIL
+categories:
+  - Coding
+tags:
+  - node.js
 ---
 Struggling through some food poisoning today, so I don't have much to talk about. Before things got too bad, I did do some reading up on how to scale out nodejs applications. My intention for this weekend was to convert one of my python apps for work over to using nodejs and then scale it out, but this illness kind of put a damper on that.
 

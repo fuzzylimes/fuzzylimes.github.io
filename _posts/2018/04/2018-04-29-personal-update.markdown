@@ -1,8 +1,11 @@
 ---
 layout: post
-title:  "4/29/18 - Personal Update"
+title:  "Personal Update"
 date:   2018-04-29 13:30:00 -0000
-categories: personal
+categories:
+  - Rambling
+tags:
+  - personal
 ---
 Short personal update on why I haven’t been posting lately,
 

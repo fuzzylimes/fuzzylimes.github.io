@@ -2,7 +2,10 @@
 layout: post
 title:  "TIL: Chaining SQL Inner Joins"
 date:   2018-05-01 20:15:00 -0000
-categories: TIL
+categories:
+  - Coding
+tags:
+  - sql
 ---
 Short update for me today as I've been dealing with a deadly sinus headache all evening. I did get in some training this morning which covered the concept of chaining inner joins together using SQL queries. This gives the ability to join more than just two tables together, again using the primary and foreign key relationships between the two tables.
 

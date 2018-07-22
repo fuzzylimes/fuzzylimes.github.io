@@ -2,7 +2,10 @@
 layout: post
 title:  "Fumbling Through Twitch Authentication"
 date:   2017-11-15 21:40:00 -0500
-categories: python, testing
+categories:
+  - Coding
+tags:
+  - python
 ---
 Prior to stepping into learning MEAN stack and taking a few extra front end specific online courses, I had been playing around with setting up sanity tests for the Twitch.tv API. Tonight I wanted to circle back around to it again and see what I could get done with it.
 

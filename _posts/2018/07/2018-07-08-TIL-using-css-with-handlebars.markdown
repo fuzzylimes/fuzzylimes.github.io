@@ -2,7 +2,11 @@
 layout: post
 title:  "TIL: Using css with handlebars"
 date:   2018-07-08 20:35:00 -0000
-categories: TIL
+categories:
+  - Coding
+tags:
+  - node.js
+  - handlebars
 ---
 In order to import a css file into a handlebars project in nodejs, there's one small thing that's required to be done before the file will be accessible from the template files.
 

@@ -2,7 +2,10 @@
 layout: post
 title:  "TIL: Javascript Basics: Part 7"
 date:   2018-05-12 20:15:00 -0000
-categories: TIL
+categories:
+  - Coding
+tags:
+  - javascript
 ---
 More Javascript DOM stuff today, and nothing that's really that exciting. All of the basic stuff is starting to slow me down, I feel my eyes starting to glaze over again, something that I'd complained about a few weeks back. I think I need to start creating better summary notes as I get done with sections, so that'll be coming in the next few days.
 

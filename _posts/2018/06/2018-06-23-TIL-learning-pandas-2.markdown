@@ -2,7 +2,11 @@
 layout: post
 title:  "TIL: Learning Pythong Pandas, Part 2"
 date:   2018-06-23 07:05:00 -0000
-categories: TIL
+categories:
+  - Coding
+tags:
+  - python
+  - pandas
 ---
 I really needed the rest of this information filled out before I went into work this morning, so here's some corrections to last nights blog post as well as a few more answers to questions I still had (partial repost of yesterday):
 

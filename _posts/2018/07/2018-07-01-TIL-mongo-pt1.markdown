@@ -2,7 +2,11 @@
 layout: post
 title:  "TIL: Back to Learning Mongo"
 date:   2018-07-01 17:05:00 -0000
-categories: TIL
+categories:
+  - Coding
+tags:
+  - mongodb
+  - node.js
 ---
 I bought [this Udemy course](https://www.udemy.com/the-complete-developers-guide-to-mongodb/) on mongodb nearly a year ago. Based on my completion history, evidenty I got about a 3rd of the way through it before quiting and moving on to something else. Considering how much the course focuses on nodejs, I'd assume I probably went and started working on courses that covered node and javascript in general (even knowing what I do now, there's still some advanced topics being covered).
 

@@ -2,7 +2,11 @@
 layout: post
 title:  "TIL: Back to Learning Mongo, pt5"
 date:   2018-07-05 20:55:00 -0000
-categories: TIL
+categories:
+  - Coding
+tags:
+  - mongodb
+  - node.js
 ---
 Really not feeling it today. Like at all.
 

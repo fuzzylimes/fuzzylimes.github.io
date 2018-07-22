@@ -2,7 +2,10 @@
 layout: post
 title:  "TIL: The correct way of adding text to an element"
 date:   2018-07-10 20:40:00 -0000
-categories: TIL
+categories:
+  - Coding
+tags:
+  - javascript
 ---
 My work with javascript over the last two days has led me to finally learning how to manipulate the DOM with javascript on the client side. I think my entire last project was all server side rendered, so I didn't have to worry about any of that kind of stuff. But now that my `ute-visor` project relies on updating the page based on passed data through the socket, I'm having to finally learn it.
 

@@ -2,7 +2,10 @@
 layout: post
 title:  "TIL: Looping in bash scripts and other things"
 date:   2018-06-09 19:30:00 -0000
-categories: TIL
+categories:
+  - Coding
+tags:
+  - bash
 ---
 I was in need of writing some bash scripts today to handle the automation of some of my test runs. in the past, most of my "bash scripting" was limited to putting a command into a file and ending it with `.sh`. Today I branched out a bit more and dealt with looping, command line arguments, and other fun stuff.
 

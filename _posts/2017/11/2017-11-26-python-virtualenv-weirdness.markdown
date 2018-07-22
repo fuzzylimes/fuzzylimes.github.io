@@ -2,7 +2,10 @@
 layout: post
 title:  "Python virtualenv weirdness"
 date:   2017-11-26 21:52:00 -0500
-categories: python
+categories:
+  - Coding
+tags:
+  - python
 ---
 After getting pissed off again trying to work my way through front end (Angular 4...) training the last two days, I finally reached my breaking point and rage quit. Not having any fun, need to take a break and do something that's actually interesting/enjoyable for me. So I decided that I'd go ahead and work on one of the Python courses I'd also previously picked up. All was well until I hit a point where 1: I needed to install the cv3 image processing; and 2: using global packages with virtualenv.
 

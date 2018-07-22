@@ -2,7 +2,10 @@
 layout: post
 title:  "TIL: Starting with SQL Joins and URL encoding"
 date:   2018-04-30 20:30:00 -0000
-categories: TIL
+categories:
+  - Coding
+tags:
+  - sql
 ---
 Today's a mix of a few different things. I ran into an issue while running some tests at work involving unicode characters that led me down a hole regarding encoding. And after work I spent a bit more time on basic SQL stuff where I learned about doing two different types of joins.
 

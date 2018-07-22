@@ -2,7 +2,10 @@
 layout: post
 title:  "TIL: Reading from JSON in NodeJS"
 date:   2018-05-21 20:15:00 -0000
-categories: TIL
+categories:
+  - Coding
+tags:
+  - node.js
 ---
 I don't have much time as I'm currently working on my main project for work, but I wanted to take a minute to talk about reading in json files in nodejs.
 

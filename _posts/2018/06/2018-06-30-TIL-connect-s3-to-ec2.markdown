@@ -2,7 +2,10 @@
 layout: post
 title:  "TIL: Connecting an S3 bucket to EC2 instance"
 date:   2018-06-30 20:30:00 -0000
-categories: TIL
+categories:
+  - Coding
+tags:
+  - aws
 ---
 So one of the things that came up yesterday afternoon while working with getting the symbolic links and public folder setup was storing my files off on an s3 instances instead of trying to store it all on the image. I'd had the thought about it before, but never really had the time to sit down and dive into what all that involves. So today I spent a bit of time researching what all has to be done to get up and running with S3 bucket in an EC2 instance.
 

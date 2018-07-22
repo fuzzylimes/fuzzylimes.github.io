@@ -2,7 +2,10 @@
 layout: post
 title:  "TIL: docker-compose"
 date:   2018-04-15 16:00:00 -0000
-categories: TIL
+categories:
+  - Coding
+tags:
+  - docker
 ---
 Finally found some time to work through another section of the Docker course I'm taking. Today was all about `docker-compose.yml` files and using the docker-compose application for quick deployments. It makes standing things up super quick with just a few configuration files.
 

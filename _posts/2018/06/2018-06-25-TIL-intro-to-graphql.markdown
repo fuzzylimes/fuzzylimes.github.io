@@ -2,7 +2,10 @@
 layout: post
 title:  "TIL: Intro to GraphQL"
 date:   2018-06-25 20:50:00 -0000
-categories: TIL
+categories:
+  - Coding
+tags:
+  - graphql
 ---
 I spent a bit of time today reading up on GraphQL. One of the developers I work with had mentioned it a while back, and I've been curious to learn more about it.
 

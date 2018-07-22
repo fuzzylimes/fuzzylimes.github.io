@@ -2,7 +2,10 @@
 layout: post
 title:  "TIL: Easy Way of Passing Data Between ExpressJS Paths"
 date:   2018-05-16 19:25:00 -0000
-categories: TIL
+categories:
+  - Coding
+tags:
+  - node.js
 ---
 Learned a neat little trick this morning for passing data between two different paths when using express in a node project. This came up when I was trying to figure out how I'd be able to return data that was retrieved during a form post and move back into the the main index page after redirect.
 

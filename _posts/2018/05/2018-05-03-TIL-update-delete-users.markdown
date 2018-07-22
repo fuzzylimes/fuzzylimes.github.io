@@ -2,7 +2,10 @@
 layout: post
 title:  "TIL: SQL Updates and Deletes and Postgres User Management"
 date:   2018-05-03 18:25:00 -0000
-categories: TIL
+categories:
+  - Coding
+tags:
+  - sql
 ---
 More postgresql today. Today I learned about updating records, deleting records, and then how to create and manage users within postgres. Like yesterday, all of this is coming from the notes I took while working through it.
 

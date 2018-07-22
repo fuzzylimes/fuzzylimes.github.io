@@ -2,7 +2,11 @@
 layout: post
 title:  "TIL: Back to Learning Mongo, pt6"
 date:   2018-07-06 20:55:00 -0000
-categories: TIL
+categories:
+  - Coding
+tags:
+  - mongodb
+  - node.js
 ---
 Today's lessons were pretty bad. Very frustrated with the class that I've been taking. Reached the halfway point where I'm ready to just drop it as I don't feel like it's really providing me anymore. Feel like I'm still having to google for answers on basic things WITHIN the course itself.
 

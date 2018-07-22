@@ -2,7 +2,10 @@
 layout: post
 title:  "TIL: Starting with React, Part 2"
 date:   2018-06-19 20:25:00 -0000
-categories: TIL
+categories:
+  - Coding
+tags:
+  - react
 ---
 More work on my React corse today. Made it through the begining section that covered the rest of the basics and even completed my first react project assignment, ~wooo. Today I'm just going to cover the rest of the notes that I took during the lessons today.
 

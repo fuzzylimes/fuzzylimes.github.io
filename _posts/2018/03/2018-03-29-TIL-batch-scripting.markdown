@@ -2,7 +2,10 @@
 layout: post
 title:  "TIL: Batch scripting"
 date:   2018-03-29 17:00:00 -0500
-categories: TIL
+categories:
+  - Coding
+tags:
+  - batch
 ---
 Starting back up the blogs with what I had intended to use them for in the first place: Today I Learned notes. This first entry in the series will be covering my first experience with batch scripting.
 

@@ -2,7 +2,10 @@
 layout: post
 title:  "TIL: Javascript Basics: Part 4"
 date:   2018-05-09 17:20:00 -0000
-categories: TIL
+categories:
+  - Coding
+tags:
+  - javascript
 ---
 Still moving along with JS lessons. More review again today.
 

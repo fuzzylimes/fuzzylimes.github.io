@@ -2,7 +2,10 @@
 layout: post
 title:  "TIL: NodeJS Command Line Args"
 date:   2018-05-22 21:10:00 -0000
-categories: TIL
+categories:
+  - Coding
+tags:
+  - node.js
 ---
 Once again, don't really have any time to write tonight. Completely overwhelmed with work, brain is melting. I did learn a neat little trick for reading in command line arguments in Node though, so I guess I'll share that.
 

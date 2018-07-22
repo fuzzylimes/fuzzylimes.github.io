@@ -2,7 +2,11 @@
 layout: post
 title:  "A little jekyll and Javascript"
 date:   2017-11-13 21:12:00 -0500
-categories: jekyll, javascript
+categories:
+  - Coding
+tags:
+  - jekyll
+  - javascript
 ---
 Sick again and busy with work, but I still wanted to take a few minutes to write about what I did learn today. Not a whole not to report on today, just a few things come to mind with regards to jekyll and some Javascript stuff that I did for work.
 

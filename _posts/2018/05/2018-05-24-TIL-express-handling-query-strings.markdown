@@ -2,7 +2,10 @@
 layout: post
 title:  "TIL: Express Query Strings and Handlebar Arrays"
 date:   2018-05-24 20:40:00 -0000
-categories: TIL
+categories:
+  - Coding
+tags:
+  - node.js
 ---
 I got a chance to work on my side project a little more at work today (though to be fair it's hardly a side project as it's going to be used to do actual work), and things are really starting to come together. One of the big things that I got working today involved handling query strings with express.
 
@@ -29,7 +32,7 @@ The same logic applies if you have more that one parameter. Say we expand out th
 ```
 
 ## Express Handlebars and Arrays
-Something else I remembered that I learned today that took a bit of searching to find an answer/example for. When using `express-handlebars` and you're passing in an array to your template, if you want to iterate over this array and use the value, you use the `{{#each}}` tag along with a `{{this}}` tag to actually use the value.
+Something else I remembered that I learned today that took a bit of searching to find an answer/example for. When using `express-handlebars` and you're passing in an array to your template, if you want to iterate over this array and use the value, you use the `#each` tag along with a `this` tag to actually use the value.
 
 For instance, suppose that I have an array of four numbers: `[12, 34, 45, 221]`. Passing them into my html template, I would do the following to iterate through them:
 

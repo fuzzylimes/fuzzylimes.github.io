@@ -2,7 +2,11 @@
 layout: post
 title:  "TIL: Intro to Electron"
 date:   2018-06-16 21:20:00 -0000
-categories: TIL
+categories:
+  - Coding
+tags:
+  - electron
+  - javascript
 ---
 Tonight I went through a basic tutorial for the Electron framework. Electron is a super neat javacript framework that makes it possible to develop multi-platform applications with just one set of code. It leverages nodejs and chromium to run html, css, and js code in the browser. Super neat and something that I've wanted to try out for a while now.
 

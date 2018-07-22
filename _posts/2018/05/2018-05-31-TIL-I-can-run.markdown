@@ -2,7 +2,11 @@
 layout: post
 title:  "TIL: I Can Run"
 date:   2018-05-31 20:05:00 -0000
-categories: TIL
+categories:
+  - Rambling
+tags:
+  - personal
+  - running
 ---
 Today marks the end of week 5 of the Couch25k program. 5 weeks ago I was unable to make it through a minute and a half of light jogging without wheezing, spitting, panting, and nearly passing out. Today, I was able to complete a 20 minute run, start to finish, without any slow downs.
 

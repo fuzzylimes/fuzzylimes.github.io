@@ -2,7 +2,11 @@
 layout: post
 title:  "TIL: Folders in Jeykl and Docker Images"
 date:   2018-03-31 17:00:00 -0500
-categories: TIL
+categories:
+  - Coding
+tags:
+  - jekyll
+  - docker
 ---
 Today was lowkey, busy with a lot of house work, but I did manage to find a few new things to work on. The first was with my continued learning of Docker and learning about images. The second was a organization activity for Jekyll.
 
@@ -73,4 +77,4 @@ So before today, I had every one of my blog posts all at the same level in the s
 
 Now everything is broken down by year and month sub folders, making it 100x more enjoyable to work with:
 
-![User section]({{ "/assets/img/2018-03-31.png" | absolute_url }})
+![User section]({{ "/assets/img/posts/2018-03-31.png" | absolute_url }})

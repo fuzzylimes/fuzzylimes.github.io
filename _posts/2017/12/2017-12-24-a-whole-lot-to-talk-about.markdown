@@ -2,7 +2,10 @@
 layout: post
 title:  "A Whole Lot to Talk About"
 date:   2017-12-24 21:00:00 -0500
-categories: nodejs design
+categories:
+  - Coding
+tags:
+  - node.js
 ---
 So, it's been a while. Where do I even begin...
 
@@ -70,7 +73,7 @@ So then, if I wanted to use one of these functions in the handlebars script, I c
 {% endraw %}
 {% endhighlight %}
 
-One other small "gotcha" I ran into was trying to access other variables from within an `{{#each item}}` loop. With the way that handlebars works, once you enter the each loop, the focus is on the object you're itrating through. If you want to pull in a different variable, you'd need to actually go up another level to access it, like so:
+One other small "gotcha" I ran into was trying to access other variables from within an `#each item` loop. With the way that handlebars works, once you enter the each loop, the focus is on the object you're itrating through. If you want to pull in a different variable, you'd need to actually go up another level to access it, like so:
 
 {% highlight html %}
 {% raw %}

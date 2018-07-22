@@ -2,7 +2,10 @@
 layout: post
 title:  "TIL: Unique Array in JS"
 date:   2018-07-13 20:40:00 -0000
-categories: TIL
+categories:
+  - Coding
+tags:
+  - javascript
 ---
 Today I finally needed to make a unique array in javascript. For some reason I've never had to do that until today... go figure.
 

@@ -2,7 +2,10 @@
 layout: post
 title:  "TIL: E3 Highlights pt 1"
 date:   2018-06-11 20:30:00 -0000
-categories: e3
+categories:
+  - Gaming
+tags:
+  - e3
 ---
 E3 is here once again (started yesterday, but I've been too busy) so I figured I'd take a break form cramming my head with things and take a break to catch up on new gaming news. As of writing this, Sony and Nintendo are yet to present their stuff, so I'm sure I'll have a part 2 tomorrow with what isn't included today.
 

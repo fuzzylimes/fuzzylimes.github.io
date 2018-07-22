@@ -1,0 +1,14 @@
+# Sample Authors
+# Remove file or replace with your own
+
+Zach Cochran:
+  name: Zach Cochran
+  picture: "assets/img/src/bio-photo.png"
+  twitter: "@fuzzylimes"
+  links:
+    - title: Twitter
+      url: https://twitter.com/fuzzylimes
+      icon: fab fa-twitter-square
+    - title: Github
+      url: https://github.com/fuzzylimes
+      icon: fab fa-github-square

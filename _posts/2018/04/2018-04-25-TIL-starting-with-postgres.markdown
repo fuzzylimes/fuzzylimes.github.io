@@ -2,7 +2,10 @@
 layout: post
 title:  "TIL: Starting with postgresql"
 date:   2018-04-25 17:30:00 -0000
-categories: TIL
+categories:
+  - Coding
+tags:
+  - postgresql
 ---
 As I mentioned in my last post, I wanted to get a bit more familiar with postgres before I started trying to work it into a project. Granted doing a project is a great way to learn something new, I felt like actually understanding how the db works before hand would be a bit better than going in completely blind.
 

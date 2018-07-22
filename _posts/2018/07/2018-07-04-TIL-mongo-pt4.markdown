@@ -2,7 +2,11 @@
 layout: post
 title:  "TIL: Back to Learning Mongo, pt4"
 date:   2018-07-04 19:45:00 -0000
-categories: TIL
+categories:
+  - Coding
+tags:
+  - mongodb
+  - node.js
 ---
 The "mongo" lessons continue. I use quotes because this course has become everything but mongo. On the plus side I'm feeling pretty confident about using promises, async/await, and mocha now!
 

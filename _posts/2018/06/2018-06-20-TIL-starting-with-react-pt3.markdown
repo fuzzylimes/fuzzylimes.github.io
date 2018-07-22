@@ -2,7 +2,10 @@
 layout: post
 title:  "TIL: Starting with React, Part 3"
 date:   2018-06-20 20:25:00 -0000
-categories: TIL
+categories:
+  - Coding
+tags:
+  - react
 ---
 Today's lectures introduced how to deal with conditional operators when working with React. The author of the lectures introduced two different ways to use them when rendering things conditionally based on a specific state. While both of the examples were pretty straight forward, the syntax and handling of it all just seems... I don't know, kind of clunky I guess. Maybe this will be addressed as I go on in the corse, but I can see files getting huge with all of these conditional rendering blocks of code.
 

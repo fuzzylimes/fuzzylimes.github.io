@@ -2,7 +2,10 @@
 layout: post
 title:  "TIL: Overworking is a bad thing"
 date:   2018-06-10 21:40:00 -0000
-categories: TIL
+categories:
+  - Rambling
+tags:
+  - personal
 ---
 After what has been the longest week of my working career, and continuing into a second week, I finally know my breaking point.
 

@@ -2,7 +2,10 @@
 layout: post
 title:  "TIL: Getting Parameters to Express Routes"
 date:   2018-07-07 21:15:00 -0000
-categories: TIL
+categories:
+  - Coding
+tags:
+  - node.js
 ---
 Today I spent most of my time working on a new side project. The project, titled [ute](https://github.com/fuzzylimes/ute) is a traffic generator template program to help quickly simulate REST traffic against a website.
 

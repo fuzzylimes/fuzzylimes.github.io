@@ -2,7 +2,10 @@
 layout: post
 title:  "TIL: Javascript Basics: Part 3"
 date:   2018-05-08 18:10:00 -0000
-categories: TIL
+categories:
+  - Coding
+tags:
+  - javascript
 ---
 Not much time to spend on things today, but I did make it through a few more lessons. More basic Javascript items today.
 

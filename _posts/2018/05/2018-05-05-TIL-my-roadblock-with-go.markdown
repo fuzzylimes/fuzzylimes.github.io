@@ -2,12 +2,15 @@
 layout: post
 title:  "TIL: My Roadblock with Golang"
 date:   2018-05-05 19:15:00 -0000
-categories: TIL
+categories:
+  - Coding
+tags:
+  - golang
 ---
 Rathern than working on new stuff today, I took the time I would have spent learning new stuff to spend some time reflecting on my recent attempt at learning the Go language. It was much overdue, and the conclusion that I came to is slighly disheartening.
 
 ## The past 2 Months
-For the past 2-3 months, I've been spending my free time trying to learn the Golang programing language. After reaching a point with my python programing, and feeling like I wanted to do something other than nodejs, I set my eyes on a compiled langaue. Rather than go with Java, which I'd taken in college and didn't really care for, I looked at other languages that were being used for web applications and I kept seeing `Go` come up.
+For the past 2-3 months, I've been spending my free time trying to learn the Golang programing language. After reaching a point with my python programing, and feeling like I wanted to do something other than nodejs, I set my eyes on a compiled language. Rather than go with Java, which I'd taken in college and didn't really care for, I looked at other languages that were being used for web applications and I kept seeing `Go` come up.
 
 After reading into it a bit, I was instantly interested in all of the flashing advertising words that kept poping up. It was super fast, both in run speed and in compile time (something I remember hating from Java), it had a super robust common library, and the language was growing in popularity every year.
 

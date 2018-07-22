@@ -2,7 +2,10 @@
 layout: post
 title:  "TIL: Session Flow"
 date:   2018-05-26 21:25:00 -0000
-categories: TIL
+categories:
+  - Coding
+tags:
+  - node.js
 ---
 Today marks 28 days in a row of TIL posts. When I started out a month ago, I knew that I wanted to spend a little bit of time each week reflecting on what I'd been doing, and I figured that a blog post would be a great way to capture that. I never expected that I'd be able to keep it up for as long as I have, let alone an entire month. So that's a pretty crazy accomplishment, one that I'm super proud about.
 

@@ -2,7 +2,10 @@
 layout: post
 title:  "TIL: What are cousins?"
 date:   2018-07-16 20:30:00 -0000
-categories: TIL
+categories:
+  - Rambling
+tags:
+  - youtube
 ---
 This is a bit of cheat as I actually learned this yesterday, but today was a pretty foggy day. VSauce did a great video explaining what cousins actually are and how the relationships work.
 

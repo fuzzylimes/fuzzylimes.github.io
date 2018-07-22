@@ -2,7 +2,10 @@
 layout: post
 title:  "TIL: Javascript Basics: Part 8"
 date:   2018-05-13 20:30:00 -0000
-categories: TIL
+categories:
+  - Coding
+tags:
+  - javascript
 ---
 Still not really feeling it today but still managed to make it through a few more modules. Still just more basic Javascript stuff dealing with the DOM. Lacking motivation so another low effort post today. Starting to feel guilty about all the copy paste.
 

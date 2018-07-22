@@ -2,7 +2,10 @@
 layout: post
 title:  "Python and NoneType: My Constant Battle"
 date:   2017-12-06 21:10:00 -0500
-categories: python
+categories:
+  - Coding
+tags:
+  - python
 ---
 As I mentioned before, one of my goals of this blog was to try and get more of the common issues I run into to finally stick. There are some things that I have to look up again, and again, and again, well beyond the point where it would have been benifitial to just learn the damn thing. So today's post is going to look at one of those things: python and NoneType.
 

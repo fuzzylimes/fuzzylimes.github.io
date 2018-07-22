@@ -2,7 +2,10 @@
 layout: post
 title:  "TIL: Safe Cloning in JS"
 date:   2018-06-26 20:52:00 -0000
-categories: TIL
+categories:
+  - Coding
+tags:
+  - javascript
 ---
 While working more on my React lessons tonight, I learned a helpful hint for ensuring that a new copy of an object gets created rather than just creating a new reference to the original object.
 

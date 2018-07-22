@@ -2,7 +2,10 @@
 layout: post
 title:  "TIL: Making Requests in NodeJS"
 date:   2018-05-20 21:20:00 -0000
-categories: TIL
+categories:
+  - Coding
+tags:
+  - node.js
 ---
 Today I finally got requests working from within my node app. I don't know why I was making this processes so much harder than it needed to be. All of it runs async, all the values can be passed around, and it works just like you would think it would.
 

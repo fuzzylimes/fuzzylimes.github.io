@@ -2,7 +2,10 @@
 layout: post
 title:  "TIL: Randomizing with %"
 date:   2018-06-07 21:15:00 -0000
-categories: TIL
+categories:
+  - Coding
+tags:
+  - python
 ---
 So I've been working on a traffic simulator project at work, and one of the things that I try to do is generate unique, sensible data for each of the posts that I send. Try to, you know, actually simulate what's going to be going through the system. In the past I'd often relied on just using the `random.random()` function to generate a base number, then multiply it by the max value I'd want, then finally round it up to where I'd want it to be. But that's a lot of overhead if I just want to, say, randomize the selection of an item from an array.
 

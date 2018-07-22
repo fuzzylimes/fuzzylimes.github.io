@@ -2,7 +2,10 @@
 layout: post
 title:  "TIL: The Importance of Pacing"
 date:   2018-05-17 19:25:00 -0000
-categories: TIL
+categories:
+  - Rambling
+tags:
+  - personal
 ---
 Warning: today's post is going to be a little bit different from what I usually post.
 

@@ -2,7 +2,11 @@
 layout: post
 title:  "TIL: Standing up a Postgresql server in docker"
 date:   2018-04-23 19:30:00 -0000
-categories: TIL
+categories:
+  - Coding
+tags:
+  - docker
+  - postgresql
 ---
 The next project I have planned to goof off with deals with handling user authentication and authorization in a REST api. At the same time, I want to give an sql database a try as all I've really ever worked with is mongodb. I'd heard great things about postgres, so I figured I'd give that a go. And rather than installing it to my local computer, I decided I'd put my docker training to use and stand it up that way.
 

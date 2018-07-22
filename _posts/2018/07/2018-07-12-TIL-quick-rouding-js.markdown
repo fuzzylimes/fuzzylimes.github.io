@@ -2,7 +2,10 @@
 layout: post
 title:  "TIL: Quick rounding in JS"
 date:   2018-07-12 20:40:00 -0000
-categories: TIL
+categories:
+  - Coding
+tags:
+  - javascript
 ---
 In the past I'd always used the `Math.round()` function with floor and such to handle rounding to decimal places, turns out there's a much simpler way of doing it...
 

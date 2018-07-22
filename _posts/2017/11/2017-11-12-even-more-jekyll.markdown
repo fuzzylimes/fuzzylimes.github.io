@@ -2,7 +2,10 @@
 layout: post
 title:  "Even More Jekyll"
 date:   2017-11-12 20:25:00 -0500
-categories: jekyll
+categories:
+  - Coding
+tags:
+  - jekyll
 ---
 I've been sick all weekend so I didn't have as much energy to spend on learning as I had wanted to. At the very least I was interested in seeing if I couldn't get the paging system to work, so I decided I'd spend what little remaining time I have this weekend playing around with it.
 
@@ -16,7 +19,7 @@ Fast forward to this evening and reading about pages. In order for their paginat
 
 Doesn't really make sense to me either, so I guess here's a picture of my directory structure to maybe clear it up:
 
-![My helpful screenshot]({{ "/assets/img/2017-11-12.png" | absolute_url }}){:height="30%" width="30%"}
+![My helpful screenshot]({{ "/assets/img/posts/2017-11-12.png" | absolute_url }}){:height="30%" width="30%"}
 
 
 
@@ -26,7 +29,7 @@ Nice little segway into images. Had to look up how to add assets to projects in 
 The next issue was resizing. Evidently there are plugins you can install that will help you do it (already forgotten the name of the one that kept popping up), but I was able to find a solution for kramdown formatting ([see this page here, post on May15th from arganzheng](https://gist.github.com/uupaa/f77d2bcf4dc7a294d109)). All you need to do is add an extra thing of markdown to the end of your image, like so:
 
 {% highlight markdown %}
-![My helpful screenshot]({{ "/assets/img/2017-11-12.png" | absolute_url }}){:height="30%" width="30%"}
+![My helpful screenshot]({{ "/assets/img/posts/2017-11-12.png" | absolute_url }}){:height="30%" width="30%"}
 {% endhighlight %}
 
 ### Limiting number of items returned

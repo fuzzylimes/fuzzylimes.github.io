@@ -2,7 +2,10 @@
 layout: post
 title:  "TIL: Adding VScode to PATH, the easy way"
 date:   2018-05-14 19:45:00 -0000
-categories: TIL
+categories:
+  - Tools
+tags:
+  - vscode
 ---
 Working on a side project tonight and ran into a problem that I've hit many times before: launching vscode from the command line. So many times I've wanted to just open a file or folder up in vscode from the command line, but have been too lazy to update my bash file to set it. Today I found out: there's no need to do that.
 

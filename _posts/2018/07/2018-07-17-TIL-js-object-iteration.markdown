@@ -2,7 +2,10 @@
 layout: post
 title:  "TIL: Javascript Object Iteration"
 date:   2018-07-17 18:10:00 -0000
-categories: TIL
+categories:
+  - Coding
+tags:
+  - javascript
 ---
 I came across an interesting article this morning that talked about various ways in which to handle iterating over object in javascript. Both of these methods were foreign to me and it turned out to be a great read.
 

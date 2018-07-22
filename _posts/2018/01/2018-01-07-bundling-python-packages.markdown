@@ -2,7 +2,10 @@
 layout: post
 title:  "Bundling Python Packages"
 date:   2018-01-07 14:30:00 -0500
-categories: python
+categories:
+  - Coding
+tags:
+  - python
 ---
 Making good on one of my new years resolution, I took the time to learn how to bundle Python projects up into nice little distributable packages. Figured I'd write down what I leaned for future me.
 

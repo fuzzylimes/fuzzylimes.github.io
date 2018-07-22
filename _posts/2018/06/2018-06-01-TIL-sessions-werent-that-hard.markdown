@@ -2,7 +2,11 @@
 layout: post
 title:  "TIL: Session Weren't That Hard"
 date:   2018-06-01 20:05:00 -0000
-categories: TIL
+categories:
+  - Coding
+tags:
+  - node.js
+  - sessions
 ---
 The first itteration of my side project at work is finally finished. I was able to get sessions working just as I had always imagined them working, and it's such a beautiful thing. Oh, and I was making them way harder than they needed to be.
 

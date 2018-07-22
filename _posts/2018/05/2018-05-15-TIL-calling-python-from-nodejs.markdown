@@ -2,7 +2,10 @@
 layout: post
 title:  "TIL: Launching Python from NodeJS"
 date:   2018-05-15 20:20:00 -0000
-categories: TIL
+categories:
+  - Coding
+tags:
+  - node.js
 ---
 Continuing work on my side project/project needed for work, I ran into a situation where I needed to kick off a python script from an express and get the output back. Essentially I need python to run a selenium script for me and retrieve a specific piece of data after doing some login stuff. To my surprise, it was easier to get working that writing the selenium script.
 

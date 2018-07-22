@@ -2,7 +2,10 @@
 layout: post
 title:  "Back to basics: Front end dev"
 date:   2017-11-23 22:30:00 -0500
-categories: front end, development
+categories:
+  - Coding
+tags:
+  - web development
 ---
 I'll be honest, I've actually never had any sort of training when it comes to front end development. I fumbled around with it when I was a kid many many years ago, and then in college moved straight into C, C++, Java, and then finally Python in the workplace. But it's always been an interest of mine (part of the reason this site exists). So I've been slowly taking an online course to try to finally get stuff nailed down.
 

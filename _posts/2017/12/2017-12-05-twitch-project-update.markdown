@@ -2,7 +2,10 @@
 layout: post
 title:  "Twitch Project Update"
 date:   2017-12-05 19:15:00 -0500
-categories: python
+categories:
+  - Coding
+tags:
+  - python
 ---
 Just another minor follow up to the project that I had started yesterday. Not too much to report, but I do have it in a state where it's ready to be used.
 

@@ -2,7 +2,10 @@
 layout: post
 title:  "TIL: Javascript Basics: Part 2"
 date:   2018-05-07 20:30:00 -0000
-categories: TIL
+categories:
+  - Coding
+tags:
+  - javascript
 ---
 Still working my way through the basics/fundamentals sections of my JS course. Lots more review today, but I did pick up a few new methods/functions that I didn't know about. Just like yesterday, here are my notes from my session today.
 

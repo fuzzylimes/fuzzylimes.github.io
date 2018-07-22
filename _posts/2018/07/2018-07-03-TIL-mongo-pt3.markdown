@@ -2,7 +2,11 @@
 layout: post
 title:  "TIL: Back to Learning Mongo, pt3"
 date:   2018-07-03 21:45:00 -0000
-categories: TIL
+categories:
+  - Coding
+tags:
+  - mongodb
+  - node.js
 ---
 Today concluded the basic mongo operations section with mongoose portion of the course I'm working on. Today basically covered all of the various ways that a record can be updated, either using the instance itself or using the model to make the changes.
 

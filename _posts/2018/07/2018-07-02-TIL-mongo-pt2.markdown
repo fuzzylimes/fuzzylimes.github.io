@@ -2,7 +2,11 @@
 layout: post
 title:  "TIL: Back to Learning Mongo, pt2"
 date:   2018-07-02 20:35:00 -0000
-categories: TIL
+categories:
+  - Coding
+tags:
+  - mongodb
+  - node.js
 ---
 Still working through the early sections of this mongo course. It's really less of a course on mongo, and more of a course on how to use mongoose with nodejs. Not that I really mind, but I would have been pretty upset if I'd bought this course to learn more about actual mongo and not about how to use it with a web application.
 

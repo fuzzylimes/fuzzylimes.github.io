@@ -2,7 +2,10 @@
 layout: post
 title:  "TIL: Impoving My JS Code"
 date:   2018-07-19 20:35:00 -0000
-categories: TIL
+categories:
+  - Coding
+tags:
+  - javascript
 ---
 I've been working with Javascript seriously now for about maybe a year or so. And in that time I've never actually had any time of code review. So as far as I'm concerned, while my code all seems to work and do what I want it to, it could all be considered to be "terrible" or "wrong".
 

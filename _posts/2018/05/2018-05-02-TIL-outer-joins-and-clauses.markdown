@@ -2,7 +2,10 @@
 layout: post
 title:  "TIL: SQL Outer Joins and Clauses"
 date:   2018-05-02 18:30:00 -0000
-categories: TIL
+categories:
+  - Coding
+tags:
+  - sql
 ---
 Today wrapped up the lessons on joining tables and went a bit further into working with clauses (help greatly with writing useful filters). All of this is going to be copy and pasted from my notes for the day, so lets just get into it.
 

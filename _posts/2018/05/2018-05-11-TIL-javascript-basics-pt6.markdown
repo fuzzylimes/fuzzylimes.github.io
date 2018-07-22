@@ -2,7 +2,10 @@
 layout: post
 title:  "TIL: Javascript Basics: Part 6"
 date:   2018-05-11 12:15:00 -0000
-categories: TIL
+categories:
+  - Coding
+tags:
+  - javascript
 ---
 I've come down with some kind of cold today, not really able to focus like I wanted to this morning. Very short lesson session before heading to lie down. Today was starting with single element selectors, more super basic stuff dealing with DOM items.
 

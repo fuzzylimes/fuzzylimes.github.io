@@ -2,7 +2,10 @@
 layout: post
 title:  "TIL: Javascript Basics: Part 5"
 date:   2018-05-10 20:35:00 -0000
-categories: TIL
+categories:
+  - Coding
+tags:
+  - javascript
 ---
 Not really feeling it today so I didn't get as much done as I would have wanted to. A lot of my learning was project specific to work today, so unfortunately I can't really share that information. Had a lot to do with security and how we handle users, which was actually pretty neat to learn about.
 

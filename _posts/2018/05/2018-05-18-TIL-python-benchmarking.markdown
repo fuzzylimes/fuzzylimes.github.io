@@ -2,7 +2,10 @@
 layout: post
 title:  "TIL: Python Benchmarking"
 date:   2018-05-18 17:20:00 -0000
-categories: TIL
+categories:
+  - Coding
+tags:
+  - python
 ---
 I'll be the first to admit that I've never really cared about performance when writing scripts in the past. My main goal is to accomplsh some piece of work. If it takes 5 seconds longer to do it, but it works, that's totally alright with me. But what about the cases where those extra 5 seconds aren't okay? I finally played around with benchmarking today in pythong.
 

@@ -2,7 +2,10 @@
 layout: post
 title:  "TIL: First problem with commander..."
 date:   2018-06-14 21:00:00 -0000
-categories: TIL
+categories:
+  - Coding
+tags:
+  - node.js
 ---
 In yesterdays blog I talked about how I found out about the node package `commander` for handling command line properties. Well, when I went to start using it in a project today, I ran into the same issue that evidently everyone runs into...
 

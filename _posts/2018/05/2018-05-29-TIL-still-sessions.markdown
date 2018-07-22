@@ -2,7 +2,11 @@
 layout: post
 title:  "TIL: Sessions: I Have A Better Idea What I'm Doing"
 date:   2018-05-29 20:45:00 -0000
-categories: TIL
+categories:
+  - Coding
+tags:
+  - node.js
+  - sessions
 ---
 After much frustration, I finally found the tutorial that I needed to help me get my head wrapped around sessions: [medium post](https://medium.com/@evangow/server-authentication-basics-express-sessions-passport-and-curl-359b7456003d)
 

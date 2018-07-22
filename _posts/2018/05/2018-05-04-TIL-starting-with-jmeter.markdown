@@ -2,7 +2,10 @@
 layout: post
 title:  "TIL: Starting with JMeter"
 date:   2018-05-04 21:15:00 -0000
-categories: TIL
+categories:
+  - Tools
+tags:
+  - jmeter
 ---
 So today I took a little detour from my normal every day work to play around with learning JMeter. We're reaching the home stretch on our project and we really need to start getting the performance testing rolling in our group. Development has already done some of that testing, but we need to have some of our own running.
 

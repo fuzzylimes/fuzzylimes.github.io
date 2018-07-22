@@ -2,7 +2,10 @@
 layout: post
 title:  "A Handful of Python Tricks"
 date:   2017-12-09 21:10:00 -0500
-categories: python
+categories:
+  - Coding
+tags:
+  - python
 ---
 Different kind of entry today. Trying to keep things relaxed this morning. Working on another Twitch related scraping program that I'm just about done with. Here's a few things that I had to relean this morning.
 

@@ -2,7 +2,10 @@
 layout: post
 title:  "TIL: I Have Coding ADD"
 date:   2018-06-28 20:15:00 -0000
-categories: TIL
+categories:
+  - Rambling
+tags:
+  - personal
 ---
 This really isn't much of a big surprise to me, but lately I've just found myself struggling to focus on one thing and stick with it. I've been so busy with things at work, and I've created so many different tyepes of tools there, that I find it very hard to focus on learning something new when I get home.
 
