@@ -22,6 +22,6 @@ Here were the basic steps that I had to follow this evening:
 
 And unfortunately there's still so much more to be done. I really want to set up a pipeline to have the server autobuild on every push, so I'll be working through that tomorrow.
 
-#### In the meantime, [blog.fuzzylimes.net](blog.fuzzylimes.net) is now live!
+#### In the meantime, [blog.fuzzylimes.net](https://blog.fuzzylimes.net) is now live!
 
 💚
